@@ -1,0 +1,24 @@
+{
+  "name": "backend-coderhouse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lautcosta/backend-coderhouse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lautcosta/backend-coderhouse/issues"
+  },
+  "homepage": "https://github.com/Lautcosta/backend-coderhouse#readme",
+  "dependencies": {
+    "D": "^1.0.0",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
